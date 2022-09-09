@@ -1,0 +1,37 @@
+[{
+    "nombre": "Guitarra",
+    "precio": 4000,
+    "cuotas": true,
+    "cantCuotas": 10,
+    "img": "./img/Guitarra.jpg"
+},
+{
+    "nombre": "Libro",
+    "precio": 450,
+    "cuotas": false,
+    "cantCuotas": 0,
+    "img": "./img/Libro.jpg"
+},
+{
+    "nombre": "Mate",
+    "precio": 150,
+    "cuotas": true,
+    "cantCuotas": 2,
+    "img": "./img/Mate.jpg" 
+},
+{
+    "nombre": "Remera",
+    "precio": 300,
+    "cuotas": true,
+    "cantCuotas": 6,
+    "img": "./img/Remera.jpg"
+},
+{
+    "nombre": "Tijeras",
+    "precio": 300,
+    "cuotas": true,
+    "cantCuotas": 6,
+    "img": "./img/Tijera.jpg"
+}
+
+]

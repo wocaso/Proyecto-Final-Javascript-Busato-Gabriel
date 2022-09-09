@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400&display=swap');
+
+
+body{
+    background-color: rgb(233, 240, 255);
+}
+.botonesMain{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 30vw;
+    margin-right: 30vw;
+}
+
+.botonMain{
+    font-family: 'Open Sans', sans-serif;
+}
+
+.titulo{
+    display: flex;
+    justify-content: center;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.textoPrecio{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: lighter;
+}
+
+.subTitulo{
+    display: flex;
+    justify-content: center;
+    color: rgb(146, 146, 146);
+    font-family: 'Open Sans', sans-serif;
+    font-weight: lighter;
+
+}
+
+#listaCatalogo{
+    list-style: none;
+    margin-left: 20vh;
+    margin-top: 5vh;
+}
+
+footer{
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height:-86vh;
+    background-color: beige;
+    text-align: center;
+    margin-top: 10px;
+}
